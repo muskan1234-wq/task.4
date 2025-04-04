@@ -1,3 +1,15 @@
+"COMPANY" :CODTECH IT SOLOTIONS
+
+"NAME" : PATHAN MUSKAN IBRAHIM
+
+"INTERN ID" : CT04WZ15
+
+"DOMAIN" : JAVA
+
+"DURATION" : 4 WEEKS
+
+"MENTOR" : NEELA SANTOSH
+
 # Multithreaded Chat Application
 
 This is a simple client-server chat application built using Java sockets and multithreading.
